@@ -17,7 +17,7 @@ Error logs:
 <img width="1163" alt="Screenshot 2023-03-28 at 3 34 21 PM" src="https://user-images.githubusercontent.com/90600804/228209828-ee84bd78-0c89-465c-ab24-6c321b6d897b.png">
 
 
-**Note:** The SDK is working fine with the following versions.
-react-native 0.66.5
-react-native-qualtrics 2.20
-pod 'Qualtrics', '~> 2.1.0'
+**Note:** The SDK is working fine with the following versions.<br>
+react-native 0.66.5 <br>
+react-native-qualtrics 2.20 <br>
+pod 'Qualtrics', '~> 2.1.0' <br>
