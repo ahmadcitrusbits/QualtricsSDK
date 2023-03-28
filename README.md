@@ -19,5 +19,5 @@ Error logs:
 
 **Note:** The SDK is working fine with the following versions.<br>
 react-native 0.66.5 <br>
-react-native-qualtrics 2.20 <br>
+react-native-qualtrics 2.2.0 <br>
 pod 'Qualtrics', '~> 2.1.0' <br>
